@@ -42,7 +42,7 @@ I take apart obfuscated Android and native code, reconstruct what protection lay
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
 ### [NEXUS-BI](https://github.com/ArchLinuxAddict/nexus-bi)
 
@@ -54,7 +54,9 @@ Tool-first binary intelligence: Ghidra, JADX and CFR own reconstruction; a compa
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td>
 
 ### [Dex2C Recovery Toolkit](https://github.com/ArchLinuxAddict/dex2c-recovery-toolkit)
 
@@ -68,7 +70,7 @@ Evidence-driven recovery for Dex2C-protected APKs: DEX/ELF inventory, transforme
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td>
 
 ### [杀猪刀 / Zhuque Android RAT](https://github.com/ArchLinuxAddict/android-shazhudao-rat)
 
@@ -79,7 +81,9 @@ End-to-end teardown of a commercial Android RAT shipped as a fake "TikTok Pro" A
 ![Threat Intel](https://img.shields.io/badge/Threat_Intel-1F6FEB?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td>
 
 ### [SckitVMP Research](https://github.com/ArchLinuxAddict/sckit-vmp-research)
 
@@ -87,12 +91,12 @@ Static reconstruction of a packed Android VM: XOR/modified-UTF-8 string coding, 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF6A00?style=flat-square&logo=ghidra&logoColor=white)
-![VMP](https://img.shields.io/badge/Virtualization-6A1B9A?style=flat-square)
+![Virtualization](https://img.shields.io/badge/Virtualization-6A1B9A?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td>
 
 ### [Windows Clipboard Hijacker](https://github.com/ArchLinuxAddict/windows-webview2-clipboard-hijacker)
 
@@ -103,7 +107,9 @@ Field report on a fake WebView2 DLL persisting through a WPDShServiceObj COM hij
 ![Detection](https://img.shields.io/badge/Detection_Engineering-1F6FEB?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td>
 
 ### [Dex2C Recovery Lab](https://github.com/ArchLinuxAddict/dex2c-recovery-lab)
 
