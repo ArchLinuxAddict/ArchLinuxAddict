@@ -52,7 +52,6 @@ Tool-first binary intelligence: Ghidra, JADX and CFR own reconstruction; a compa
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF6A00?style=flat-square&logo=ghidra&logoColor=white)
 ![JADX](https://img.shields.io/badge/JADX-1F6FEB?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Stars](https://img.shields.io/github/stars/ArchLinuxAddict/nexus-bi?style=flat-square&color=1F6FEB)
 
 </td>
 <td width="50%" valign="top">
@@ -65,7 +64,6 @@ Evidence-driven recovery for Dex2C-protected APKs: DEX/ELF inventory, transforme
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF6A00?style=flat-square&logo=ghidra&logoColor=white)
 ![JNI](https://img.shields.io/badge/JNI-6A1B9A?style=flat-square)
-![Stars](https://img.shields.io/github/stars/ArchLinuxAddict/dex2c-recovery-toolkit?style=flat-square&color=1F6FEB)
 
 </td>
 </tr>
@@ -79,7 +77,6 @@ End-to-end teardown of a commercial Android RAT shipped as a fake "TikTok Pro" A
 ![YARA](https://img.shields.io/badge/YARA-6A1B9A?style=flat-square&logo=yara&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Threat Intel](https://img.shields.io/badge/Threat_Intel-1F6FEB?style=flat-square)
-![Stars](https://img.shields.io/github/stars/ArchLinuxAddict/android-shazhudao-rat?style=flat-square&color=1F6FEB)
 
 </td>
 <td width="50%" valign="top">
@@ -91,7 +88,6 @@ Static reconstruction of a packed Android VM: XOR/modified-UTF-8 string coding, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF6A00?style=flat-square&logo=ghidra&logoColor=white)
 ![VMP](https://img.shields.io/badge/Virtualization-6A1B9A?style=flat-square)
-![Stars](https://img.shields.io/github/stars/ArchLinuxAddict/sckit-vmp-research?style=flat-square&color=1F6FEB)
 
 </td>
 </tr>
@@ -105,7 +101,6 @@ Field report on a fake WebView2 DLL persisting through a WPDShServiceObj COM hij
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Detection](https://img.shields.io/badge/Detection_Engineering-1F6FEB?style=flat-square)
-![Stars](https://img.shields.io/github/stars/ArchLinuxAddict/windows-webview2-clipboard-hijacker?style=flat-square&color=1F6FEB)
 
 </td>
 <td width="50%" valign="top">
@@ -117,7 +112,6 @@ Sanitized methodology and reproducible examples behind the Dex2C toolkit — wha
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Smali](https://img.shields.io/badge/Smali-6A1B9A?style=flat-square)
 ![Research](https://img.shields.io/badge/Research-1F6FEB?style=flat-square)
-![Stars](https://img.shields.io/github/stars/ArchLinuxAddict/dex2c-recovery-lab?style=flat-square&color=1F6FEB)
 
 </td>
 </tr>
@@ -135,7 +129,7 @@ Sanitized methodology and reproducible examples behind the Dex2C toolkit — wha
 
 <div align="center">
 
-<img alt="Languages and platforms" src="https://skillicons.dev/icons?i=py,c,cpp,java,kotlin,bash,powershell,linux,android,windows,git,github&theme=dark&perline=12" />
+<img alt="Languages and platforms" src="https://skillicons.dev/icons?i=py,c,cpp,java,kotlin,bash,powershell,linux,androidstudio,windows,git,github&theme=dark&perline=12" />
 
 <br/><br/>
 
@@ -167,10 +161,17 @@ Sanitized methodology and reproducible examples behind the Dex2C toolkit — wha
 
 <div align="center">
 
-<img width="100%" alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArchLinuxAddict&theme=tokyonight" />
+<img width="49%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArchLinuxAddict&theme=tokyonight" />
+<img width="49%" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArchLinuxAddict&theme=tokyonight" />
 
-<img height="170" alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com?user=ArchLinuxAddict&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
-<img height="170" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArchLinuxAddict&theme=tokyonight" />
+<br/>
+
+<img width="49%" alt="Commits by hour (UTC)" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArchLinuxAddict&theme=tokyonight&utcOffset=0" />
+<img width="49%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArchLinuxAddict&theme=tokyonight" />
+
+<br/><br/>
+
+<img width="60%" alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com?user=ArchLinuxAddict&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
 
 </div>
 
@@ -183,7 +184,7 @@ Sanitized methodology and reproducible examples behind the Dex2C toolkit — wha
 
 ## Elsewhere
 
-- [RePairip](https://github.com/ArchLinuxAddict/RePairip) — fork of a Google 加固 (VMRunner) unpacking and repacking tool.
+- [RePairip](https://github.com/ArchLinuxAddict/RePairip) — fork for Google 加固 (VMRunner) snapshot dumping and full APK repacking.
 - Questions, reproducible artifacts or collaboration: open an issue in the relevant repository.
 
 <br/>
