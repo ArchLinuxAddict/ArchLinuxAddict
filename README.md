@@ -178,7 +178,7 @@ Sanitized methodology and reproducible examples behind the Dex2C toolkit — wha
 
 <br/><br/>
 
-<img width="500" alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com?user=ArchLinuxAddict&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
+<img width="500" alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com?user=ArchLinuxAddict&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&disable_animations=true" />
 
 </div>
 
@@ -196,4 +196,6 @@ Sanitized methodology and reproducible examples behind the Dex2C toolkit — wha
 
 <br/>
 
-<img width="100%" alt="Independent security research · FG_Teams · Arch Linux" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:58a6ff&height=120&section=footer&text=Independent%20security%20research%20%C2%B7%20FG_Teams%20%C2%B7%20Arch%20Linux&fontSize=18&fontColor=ffffff&fontAlignY=72" />
+<p align="center"><sub>Independent security research · FG_Teams · Arch Linux</sub></p>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:58a6ff&height=120&section=footer" />
