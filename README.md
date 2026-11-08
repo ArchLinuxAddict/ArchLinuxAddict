@@ -18,13 +18,16 @@
 ## `$ whoami`
 
 ```yaml
-identity:  Eliza Pears  # "Furjack"
-role:      reverse engineer · malware analyst
-org:       FG_Teams — Security Research
-platform:  Arch Linux · Windows · Android
-focus:     Android/native RE · packers/VMPs
-recovery:  JNI/Dex2C · detection engineering
-method:    evidence first — provenance always
+identity:   Eliza Pears  # Furjack
+role:       reverse engineer
+org:        FG_Teams
+platform:   Arch Linux
+scope:      Android · Windows
+focus:      Android/native RE
+protection: packers · VMPs
+recovery:   JNI · Dex2C
+malware:    analysis · detection
+method:     evidence first
 ```
 
 I take apart obfuscated Android and native code, reconstruct what protection layers hide, and turn the result into reproducible tooling, detection content and removal guidance. Everything published here is independent research: sanitized, evidence-backed and written for defenders.
