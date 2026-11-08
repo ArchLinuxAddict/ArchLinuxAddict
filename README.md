@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Eliza Pears — reverse engineering, malware analysis, security research" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:58a6ff&height=200&section=header&text=ELIZA%20PEARS&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Reverse%20Engineering%20%C2%B7%20Malware%20Analysis%20%C2%B7%20Security%20Research&descAlignY=56&descSize=16" />
+<img width="100%" alt="Eliza Pears — reverse engineering, malware analysis, security research" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:58a6ff&height=200&section=header&text=ELIZA%20PEARS&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Reverse%20Engineering%20%C2%B7%20Malware%20Analysis%20%C2%B7%20Security%20Research&descAlignY=56&descSize=20" />
 
 <a href="https://github.com/ArchLinuxAddict">
   <img alt="Focus areas" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=%3E+whoami+%E2%86%92+reverse+engineer+%2F+malware+analyst;%3E+focus+%E2%86%92+Android+%2F+native+RE+%C2%B7+packers+%2F+VMPs;%3E+build+%E2%86%92+evidence-first+tooling%2C+not+guesses;%3E+platform+%E2%86%92+Arch+Linux+daily+driver" />
@@ -22,8 +22,9 @@ identity:  Eliza Pears  # "Furjack"
 role:      reverse engineer · malware analyst
 org:       FG_Teams — Security Research
 platform:  Arch Linux · Windows · Android
-focus:     Android/native RE · packers & VMPs · JNI/Dex2C recovery · detection engineering
-method:    evidence first — every claim ships with provenance
+focus:     Android/native RE · packers/VMPs
+recovery:  JNI/Dex2C · detection engineering
+method:    evidence first — provenance always
 ```
 
 I take apart obfuscated Android and native code, reconstruct what protection layers hide, and turn the result into reproducible tooling, detection content and removal guidance. Everything published here is independent research: sanitized, evidence-backed and written for defenders.
@@ -195,4 +196,4 @@ Sanitized methodology and reproducible examples behind the Dex2C toolkit — wha
 
 <br/>
 
-<img width="100%" alt="Independent security research · FG_Teams · Arch Linux" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:58a6ff&height=120&section=footer&text=Independent%20security%20research%20%C2%B7%20FG_Teams%20%C2%B7%20Arch%20Linux&fontSize=16&fontColor=ffffff&fontAlignY=72" />
+<img width="100%" alt="Independent security research · FG_Teams · Arch Linux" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:58a6ff&height=120&section=footer&text=Independent%20security%20research%20%C2%B7%20FG_Teams%20%C2%B7%20Arch%20Linux&fontSize=18&fontColor=ffffff&fontAlignY=72" />
