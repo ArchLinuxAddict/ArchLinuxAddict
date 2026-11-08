@@ -161,17 +161,17 @@ Sanitized methodology and reproducible examples behind the Dex2C toolkit — wha
 
 <div align="center">
 
-<img width="49%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArchLinuxAddict&theme=tokyonight" />
-<img width="49%" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArchLinuxAddict&theme=tokyonight" />
+<img width="400" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArchLinuxAddict&theme=tokyonight" />
+<img width="400" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArchLinuxAddict&theme=tokyonight" />
 
 <br/>
 
-<img width="49%" alt="Commits by hour (UTC)" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArchLinuxAddict&theme=tokyonight&utcOffset=0" />
-<img width="49%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArchLinuxAddict&theme=tokyonight" />
+<img width="400" alt="Commits by hour (UTC)" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArchLinuxAddict&theme=tokyonight&utcOffset=0" />
+<img width="400" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArchLinuxAddict&theme=tokyonight" />
 
 <br/><br/>
 
-<img width="60%" alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com?user=ArchLinuxAddict&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
+<img width="500" alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com?user=ArchLinuxAddict&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
 
 </div>
 
